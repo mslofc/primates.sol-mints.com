@@ -1,0 +1,152 @@
+Uri: https://primates.sol-mints.com/
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\index.htm
+Content Type: text/html
+
+Uri: https://primates.sol-mints.com/assets/css/style.css?1221ss2a2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://primates.sol-mints.com/css/main.css
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\css\main.css
+Content Type: text/css
+
+Uri: https://primates.sol-mints.com/css/normalize.css
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\css\normalize.css
+Content Type: text/css
+
+Uri: https://primates.sol-mints.com/css/fonts.css
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\css\fonts.css
+Content Type: text/css
+
+Uri: https://primates.sol-mints.com/css/alert.css
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\css\alert.css
+Content Type: text/css
+
+Uri: https://primates.sol-mints.com/images/logo.jpg
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://twitter.com/
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\index-2.htm
+Content Type: text/html
+
+Uri: https://primates.sol-mints.com/settings.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\settings.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/javascript/alert.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\javascript\alert.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/images/svg/Discord_Icon.svg
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\images\svg\Discord_Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://primates.sol-mints.com/images/svg/Twitter_Icon.svg
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\images\svg\Twitter_Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://primates.sol-mints.com/assets/js/jquery-3.6.0.min.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/static/js/init.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\static\js\init.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/static/js/chunk.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\static\js\chunk.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/static/js/main.chunk.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\static\js\main.chunk.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/static/js/timer.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\static\js\timer.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/javascript/loader.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\javascript\loader.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/javascript/times.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\javascript\times.js
+Content Type: application/javascript
+
+Uri: https://primates.sol-mints.com/javascript/index.js
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\javascript\index.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300;400;500;600;700&display=swap
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\css2.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/exo/v15/4UaMrEtFpBISdk6u0Dfe5g.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo\v15\4UaMrEtFpBISdk6u0Dfe5g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo/v15/4UaMrEtFpBISdk6v0Dfe5g.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo\v15\4UaMrEtFpBISdk6v0Dfe5g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo/v15/4UaMrEtFpBISdk6h0Dc.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo\v15\4UaMrEtFpBISdk6h0Dc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo/v15/4UaOrEtFpBISfH6jyDM.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo\v15\4UaOrEtFpBISfH6jyDM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo/v15/4UaOrEtFpBISfX6jyDM.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo\v15\4UaOrEtFpBISfX6jyDM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo/v15/4UaOrEtFpBISc36j.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo\v15\4UaOrEtFpBISc36j.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHov4okm5zmbtYtG-Ec5UIo.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHov4okm5zmbtYtG-Ec5UIo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHov4okm5zmbtYtG-gc5UIo.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHov4okm5zmbtYtG-gc5UIo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHov4okm5zmbtYtG-Mc5UIo.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHov4okm5zmbtYtG-Mc5UIo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHov4okm5zmbtYtG-Ic5UIo.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHov4okm5zmbtYtG-Ic5UIo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHov4okm5zmbtYtG-wc5Q.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHov4okm5zmbtYtG-wc5Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHmv4okm5zmbtYlK-4E4Q.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHmv4okm5zmbtYlK-4E4Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHmv4okm5zmbtYsK-4E4Q.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHmv4okm5zmbtYsK-4E4Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHmv4okm5zmbtYnK-4E4Q.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHmv4okm5zmbtYnK-4E4Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHmv4okm5zmbtYmK-4E4Q.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHmv4okm5zmbtYmK-4E4Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/exo2/v15/7cHmv4okm5zmbtYoK-4.woff2
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\s\exo2\v15\7cHmv4okm5zmbtYoK-4.woff2
+Content Type: font/woff2
+
+Uri: https://discord.com/
+File Name: C:\Users\USER\Desktop\primates.sol-mints.com\index-1.htm
+Content Type: text/html
+
